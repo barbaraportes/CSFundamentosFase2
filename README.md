@@ -1,1 +1,14 @@
-# CSFundamentosFase2
+# Curso C# Essencial: Fundamentos - Fase 1 do Professor Macoratti (Udemy).
+- Saída de dados (Formatação, Concatenação, Interpolação, sequencia de escapes)
+- Conversão de tipos (implicita, explicita, método ToString(), métodos da classe Convert
+- Entrada de dados (Console.ReadLine, Console.Read, Console.ReadKey)
+- Operadores aritméticos e classe Math
+- Inferência de tipos (var)
+- Operadores de atribuição
+- Constantes
+- Operadores de Incremento e Decremento
+- Operadores relacionais
+- Operadores lógicos
+- Precedência e associatividade de operadores
+- Nullable Reference Types
+- Operador Ternário
